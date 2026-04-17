@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+
+# env files (IMPORTANT 🔥)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build files
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# temp files
+tmp/
+temp/
+
+# coverage
+coverage/
+
+# dotenv backup
+.env.backup
